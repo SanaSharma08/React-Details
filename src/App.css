@@ -1,0 +1,17 @@
+button{
+  width: fit-content;
+  padding: 10px 30px;
+  font-size: 14px;
+  background-color: #be3284;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  color: white;
+}
+.buttons{
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
